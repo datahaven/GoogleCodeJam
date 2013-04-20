@@ -17,6 +17,11 @@ Qualifiying Round 2012
  - A - Speaking In Tongues
  - B - Dancing With The Googlers (Small Input Only)
  - C - Recycled Numbers
+
+Round 1A 2010
+-------------
+
+ - A - Rotate
  
 Practice Problems
 -----------------
