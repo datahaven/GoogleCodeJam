@@ -22,6 +22,7 @@ Round 1A 2010
 -------------
 
  - A - Rotate
+ - B - Make It Smooth
  
 Practice Problems
 -----------------
