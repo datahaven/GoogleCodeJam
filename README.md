@@ -24,6 +24,11 @@ Round 1A 2010
  - A - Rotate
  - B - Make It Smooth
  
+Round 1B 2010
+-------------
+
+ - A - File Fix-it
+ 
 Practice Problems
 -----------------
  
