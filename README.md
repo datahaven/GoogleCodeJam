@@ -28,6 +28,11 @@ Round 1B 2010
 -------------
 
  - A - File Fix-it
+
+Round 3 2008
+------------
+
+ - B - Portal
  
 Practice Problems
 -----------------
